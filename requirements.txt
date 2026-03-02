@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+future
+Cython
+jupyter
+imageIO
+pypickle
