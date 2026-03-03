@@ -1,7 +1,8 @@
 # NumPy-DL: A Modular Deep Learning Library from Scratch
 
-**NumPy-DL-Library** is a modular deep learning library built entirely from scratch using NumPy. It provides a robust, transparent framework for understanding and deploying neural network architectures, unencumbered by the opaque abstractions often found in large-scale frameworks.
+**NumPy-DL-Library** is a modular deep learning library built entirely from scratch using NumPy. It includes every feature required to train and test using a three layer CNN (which will soon be updated to support arbitrary depth CNN and more).
 
+The functionalities were originally written to solve the assignments of [cs231](https://cs231n.stanford.edu/).
 
 ## Core Capabilities
 
